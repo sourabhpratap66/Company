@@ -1,0 +1,8 @@
+.overview .container-fluid .image {
+    display: flex;
+}
+
+.footer .container .question {
+    margin-left: 150px;
+}
+
